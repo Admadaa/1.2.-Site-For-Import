@@ -1,0 +1,6 @@
+ # содержимое файла .gitignore
+ tmp/
+*_old
+*_backup
+Thumbs.db
+.DS_Stor
